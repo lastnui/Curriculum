@@ -1,0 +1,21 @@
+h2{
+    background-color: #5599DD;
+    color: #DDDDDD;
+}
+h3{
+    background-color: #5599DD;
+    color: #DDDDDD;
+}
+#email{
+    text-decoration: underline;
+    font-style: italic;
+}
+#cabecalho{
+    text-align: center;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 940px;
+    margin-right: auto;
+    margin-left: auto;
+}
